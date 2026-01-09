@@ -1,0 +1,19 @@
+/* div{
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background-color: pink;
+    margin: 10px;
+    box-shadow: 2px 2px 8px red;
+} */
+
+
+div{
+    width: 1000px;
+    height: 1000px;
+    text-align: center;
+    background-color: pink;
+    margin: 10px auto;
+   background-image: url("https://notesmedia.in/blog/uploads/thumbnails/battlegrounds-mobile-india-bgmi-a-deep-dive-into-india-s-favorite-battle-royale-game.webp");
+   background-size: cover;
+}

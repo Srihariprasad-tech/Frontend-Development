@@ -1,0 +1,17 @@
+.card
+{
+    width: 50px;
+    height: 200px;
+    border: 10px solid black;
+    display: inline block;
+    margin: 10px;
+    border-radius: 25px;
+}
+img{
+    width:100%;
+}
+
+.des
+{
+    pad:  0 2px 0 2px;
+}

@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+    border:solid;
+    width: 500px;
+    text-decoration:wavy red underline;
+    line-height: 10;
+}
+h3{
+    text-decoration: overline;
+    text-decoration: line-through;
+}                  
+p{
+    line-height: 5;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

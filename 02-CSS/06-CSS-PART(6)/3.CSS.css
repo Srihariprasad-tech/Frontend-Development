@@ -1,0 +1,33 @@
+.BOX
+{
+    height: 100PX;
+    width: 300PX;
+    background-color: PINK;
+    animation: widthanimate 3s ease-in 0s infinite normal;
+}
+@keyframes widthanimate
+{
+    0%
+    {
+        background-color: red;
+    }
+    50%
+    {
+        background-color: pink;
+    }
+    100%
+    {
+        background-color: red;
+    }
+    from{
+       
+        width: 10px;
+         background-color: green;
+    }
+to
+{
+    width: 1000px;
+    background-color: pink;
+    border-radius: 10px;
+}
+}

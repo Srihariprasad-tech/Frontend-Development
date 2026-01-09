@@ -1,0 +1,45 @@
+.BOX
+{
+    height: 100PX;
+    width: 300PX;
+    background-color: PINK;
+    animation-name: widthanimate;
+    animation-duration: 2S;
+    animation-timing-function: ease-in;
+    animation-delay: 0S;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+@keyframes FONTANIMATION
+{
+    from
+    {
+        font-size: 20PX
+    }
+    to
+    {
+        font-size: 40PX;
+    }
+}
+@keyframes coloranimate
+
+{
+    from{
+        background-color: green;
+    }
+    to
+
+    {
+        background-color: pink;
+    }
+}
+@keyframes widthanimate
+{
+    from{
+        width: 100px;
+    }
+    to
+{
+    width: 1000px;
+}
+}
